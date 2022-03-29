@@ -36,6 +36,6 @@ Contains 3 Jupyter Notebook files which explain the working of RNN with tensorfl
 <br>
 <br>
 
-For better understanding of sequential model : https://keras.io/guides/sequential_model/
-For better understanding of lstm model : https://www.tutorialspoint.com/time_series/time_series_lstm_model.htm#:~:text=It%20is%20special%20kind%20of,layers%20interacting%20with%20each%20other
+For better understanding of sequential model : https://keras.io/guides/sequential_model/ <br>
+For better understanding of lstm model : https://www.tutorialspoint.com/time_series/time_series_lstm_model.htm#:~:text=It%20is%20special%20kind%20of,layers%20interacting%20with%20each%20other <br>
 For better understanding of timeseriesgenerator : https://medium.com/swlh/timeseriesgenerator-a-deep-down-with-example-in-python-dfe32dcb2a24   
